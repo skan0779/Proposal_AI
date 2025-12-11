@@ -3,7 +3,7 @@
 > KT에서 제안서를 작성할때 입찰전략을 수립해주는 LLM 기반 PoC 서비스
 
 [![Python 3.12](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white)](https://www.python.org/downloads/release/python-3120/)
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-Meta-Llama-3-8B-yellow?logo=huggingface&logoColor=white)](https://https://huggingface.co/meta-llama/Meta-Llama-3-8B)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-Meta-Llama-3-8B-yellow?logo=huggingface&logoColor=white)](https://huggingface.co/meta-llama/Meta-Llama-3-8B)
 
 
 ---
