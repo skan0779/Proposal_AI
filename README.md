@@ -1,10 +1,9 @@
 # Proposal AI
 
-> KT에서 제안서를 작성할때 입찰전략을 수립해주는 LLM 기반 PoC 서비스
-
 [![Python 3.12](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white)](https://www.python.org/downloads/release/python-3120/)
 [![HuggingFace - Meta Llama 3 8B](https://img.shields.io/static/v1?label=HuggingFace&message=Meta-Llama-3-8B&color=yellow&logo=huggingface&logoColor=white)](https://huggingface.co/meta-llama/Meta-Llama-3-8B)
 
+> KT에서 제안서를 작성할때 입찰전략을 수립해주는 LLM 기반 PoC 서비스
 
 ---
 
